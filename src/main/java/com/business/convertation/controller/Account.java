@@ -16,7 +16,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("user")
+@RequestMapping("account")
 public class Account {
 
     @Autowired
